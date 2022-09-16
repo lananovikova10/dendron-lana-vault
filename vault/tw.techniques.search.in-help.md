@@ -2,7 +2,7 @@
 id: j66tib0su6bhuz53btv83b3
 title: In Help
 desc: ''
-updated: 1652953783940
+updated: 1653224023191
 created: 1652953712280
 ---
 
@@ -26,6 +26,14 @@ https://idratherbewriting.com/2011/05/16/every-page-is-page-one/
 - Accuracy
 - Zero searches rate
 - Search page exits
+
+Self-Service Recontact Rate
+Are your customers not engaging with the search results in your community, or even if they are, they still end up contacting support? If yes, it means your self-service portal is failing its purpose. There could be three reasons for a customer recontact:
+
+The required content doesn’t exist on your portal;
+The content is not relevant enough for the users searching for it;
+The content might be present but is not easily searchable and is hence not clicked.
+All three problems point towards your community’s search. You can gauge the efficacy of your portal’s search by checking several reports such as ‘Successful Searches,’ ‘Searches With No Clicks,’ etc. You can fix this problem with a cognitive search engine. It integrates different content repositories such as your community, product documentation, bug-tracking system, CMS, etc., and returns highly relevant results.
 
 ## Synonims
 
