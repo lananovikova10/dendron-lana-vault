@@ -2,7 +2,7 @@
 id: j66tib0su6bhuz53btv83b3
 title: In Help
 desc: ''
-updated: 1653329802418
+updated: 1663575995766
 created: 1652953712280
 ---
 
@@ -26,9 +26,6 @@ https://idratherbewriting.com/2011/05/16/every-page-is-page-one/
 - Accuracy
 - Zero searches rate
 - Search page exits
-
-Crowdsorcing
-
 
 ## Synonims
 
