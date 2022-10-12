@@ -4,3 +4,5 @@ build
 seeds
 .DS_Store
 
+
+.backup

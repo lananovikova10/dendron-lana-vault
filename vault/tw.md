@@ -1,8 +1,8 @@
 ---
 id: s4cfvbkouttogqqpzdpbwtf
-title: Tw
+title: Technical writing
 desc: ''
-updated: 1646769703821
+updated: 1665520583695
 created: 1646769703821
 ---
 

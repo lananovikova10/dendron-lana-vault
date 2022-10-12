@@ -1,8 +1,8 @@
 ---
 id: ucjpayix47htntdnevfkdek
-title: Gtd
+title: GTD
 desc: ''
-updated: 1646772490773
+updated: 1665567813692
 created: 1646772124134
 ---
 
