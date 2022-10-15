@@ -1,8 +1,8 @@
 ---
 id: z7n2x0qdxolcaslztezqmrm
-title: Pmm
+title: Product Marketing
 desc: ''
-updated: 1648411712569
+updated: 1663955990024
 created: 1648411712569
 ---
 
