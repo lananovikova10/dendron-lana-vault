@@ -1,8 +1,8 @@
 ---
 id: 783dmk1nc999mo376xobqvx
-title: Personal KM
+title: Personal Knowledge Management
 desc: ''
-updated: 1663955981958
+updated: 1665868133582
 created: 1646772565625
 ---
 

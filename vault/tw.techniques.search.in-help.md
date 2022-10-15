@@ -2,7 +2,7 @@
 id: j66tib0su6bhuz53btv83b3
 title: In Help
 desc: ''
-updated: 1653224023191
+updated: 1663575995766
 created: 1652953712280
 ---
 
@@ -27,15 +27,34 @@ https://idratherbewriting.com/2011/05/16/every-page-is-page-one/
 - Zero searches rate
 - Search page exits
 
-Self-Service Recontact Rate
-Are your customers not engaging with the search results in your community, or even if they are, they still end up contacting support? If yes, it means your self-service portal is failing its purpose. There could be three reasons for a customer recontact:
-
-The required content doesn’t exist on your portal;
-The content is not relevant enough for the users searching for it;
-The content might be present but is not easily searchable and is hence not clicked.
-All three problems point towards your community’s search. You can gauge the efficacy of your portal’s search by checking several reports such as ‘Successful Searches,’ ‘Searches With No Clicks,’ etc. You can fix this problem with a cognitive search engine. It integrates different content repositories such as your community, product documentation, bug-tracking system, CMS, etc., and returns highly relevant results.
-
 ## Synonims
 
 “Design vocabulary” used by the technical communicator to build the search system doesn’t match the search vocabulary the user is possessing.
 
+Precision (also called positive predictive value) is the fraction of relevant instances among the retrieved instances, while recall (also known as sensitivity) is the fraction of relevant instances that were retrieved. Both precision and recall are therefore based on relevance. 
+
+Precision is the estimated probability that a document randomly selected from the pool of retrieved documents is relevant.
+
+Recall is the estimated probability that a document randomly selected from the pool of relevant documents is retrieved.
+
+Precision
+In the field of information retrieval, precision is the fraction of retrieved documents that are relevant to the query:
+
+{\displaystyle {\text{precision}}={\frac {|\{{\text{relevant documents}}\}\cap \{{\text{retrieved documents}}\}|}{|\{{\text{retrieved documents}}\}|}}}{\displaystyle {\text{precision}}={\frac {|\{{\text{relevant documents}}\}\cap \{{\text{retrieved documents}}\}|}{|\{{\text{retrieved documents}}\}|}}}
+For example, for a text search on a set of documents, precision is the number of correct results divided by the number of all returned results.
+
+Precision takes all retrieved documents into account, but it can also be evaluated at a given cut-off rank, considering only the topmost results returned by the system. This measure is called precision at n or P@n.
+
+Precision is used with recall, the percent of all relevant documents that is returned by the search. The two measures are sometimes used together in the F1 Score (or f-measure) to provide a single measurement for a system.
+
+Note that the meaning and usage of "precision" in the field of information retrieval differs from the definition of accuracy and precision within other branches of science and technology.
+
+Recall
+In information retrieval, recall is the fraction of the relevant documents that are successfully retrieved.
+
+{\displaystyle {\text{recall}}={\frac {|\{{\text{relevant documents}}\}\cap \{{\text{retrieved documents}}\}|}{|\{{\text{relevant documents}}\}|}}}{\displaystyle {\text{recall}}={\frac {|\{{\text{relevant documents}}\}\cap \{{\text{retrieved documents}}\}|}{|\{{\text{relevant documents}}\}|}}}
+For example, for a text search on a set of documents, recall is the number of correct results divided by the number of results that should have been returned.
+
+In binary classification, recall is called sensitivity. It can be viewed as the probability that a relevant document is retrieved by the query.
+
+It is trivial to achieve recall of 100% by returning all documents in response to any query. Therefore, recall alone is not enough. One needs to measure the number of non-relevant documents also, for example by also computing the precision.

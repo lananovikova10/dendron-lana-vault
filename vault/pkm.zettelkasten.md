@@ -2,7 +2,7 @@
 id: 42uox1i8vrgq4mu7490se57
 title: Zettelkasten
 desc: ''
-updated: 1652954200771
+updated: 1665566842579
 created: 1652954153300
 ---
 
@@ -13,7 +13,8 @@ created: 1652954153300
 - Foam
 - Roam
 - Obsidian
-- Dendron
+- [Dendron](tools.dendron.md)
 - Mem
+- Tana
 
 [[tools.dendron]]
