@@ -110,3 +110,4 @@ publishing:
         editViewMode: tree
     enablePrettyLinks: true
     enableTaskNotes: true
+    searchMode: lookup
