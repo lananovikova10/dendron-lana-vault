@@ -14,4 +14,4 @@ https://github.com/docToolchain/docToolchain
 https://doctoolchain.org/docToolchain/v2.0.x/index.html 
 https://twitter.com/docToolchain
 
-[[tw.techniques.diagrams]]
+[[root.tw.techniques.diagrams]]

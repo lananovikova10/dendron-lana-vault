@@ -1,10 +1,15 @@
 ---
-id: 6k2s9sbhdjw8nzxfjur98ta
+id: h9vb9j271i83oricupmc2vz
 title: Styleguides
 desc: ''
-updated: 1663955334212
-created: 1663955329391
+updated: 1666386257800
+created: 1665419192923
 ---
+
+- http://styleguides.io/
+- https://redhat-documentation.github.io/supplementary-style-guide/
+- [A curated style guides collection by Barrie Byron](https://github.com/barriebyron/techcomm/blob/main/styleguide/style-guide-collection.md)
+
 
 github.com/cobalthq/cobalt-product-public-docs
 

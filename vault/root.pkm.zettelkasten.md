@@ -17,4 +17,4 @@ created: 1652954153300
 - Mem
 - Tana
 
-[[tools.dendron]]
+[[root.tools.dendron]]
